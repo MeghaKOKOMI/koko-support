@@ -29,7 +29,7 @@ const CONFIG = {
   upiId: "mmegha@ptyes",
   payeeName: "Megha",
   brand: "KOKOMI",
-  presets: [50, 100, 200, 500],
+  presets: [20, 50, 100, 200],
   defaultAmount: 500
 };
 ```
